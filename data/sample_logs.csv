@@ -1,0 +1,7 @@
+Timestamp,Level,Service,Message
+11:00:01,INFO,API Gateway,health check passed
+11:00:03,WARN,Order Service,latency above baseline
+11:00:05,ERROR,PostgreSQL Database,connection pool exhausted
+11:00:06,ERROR,Payment Service,query timeout
+11:00:07,WARN,Inventory Service,dependency response slowed
+11:00:08,INFO,Notification Service,request completed
